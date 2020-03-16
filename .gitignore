@@ -127,3 +127,16 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Vagrant
+.vagrant/
+
+# PyCharm
+.idea/
+
+# 敏感数据
+configs.py
+
+# 非必须数据
+static/img/upload/
+app.log
